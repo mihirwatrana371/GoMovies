@@ -1,1 +1,1 @@
-# GoMovie movie streaming website
+# GoMovies movie streaming website
